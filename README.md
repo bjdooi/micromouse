@@ -1,6 +1,6 @@
 # Micromouse Senior Design Project
 
-Everything is in a zip folder
+Everything else besides the simulation code is in a zip folder
 
-Most of the code is unorganized
+The other code has to do with handling the motor drivers, sensors, and other hardware of the robot.
 
