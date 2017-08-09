@@ -1,4 +1,6 @@
-# micromouse
-Micromouse stuff
+# Micromouse Senior Design Project
 
-Everything posted here
+Everything is in a zip folder
+
+Most of the code is unorganized
+
